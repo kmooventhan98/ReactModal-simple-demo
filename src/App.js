@@ -19,7 +19,7 @@ ReactModal.setAppElement('#root')
                     backgroundColor: 'grey'
                   },
                   content: {
-                    content: 'orange'
+                    color: 'orange'
                   }
                 }
               }
